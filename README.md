@@ -4,6 +4,7 @@
 * j ai 37 ans
 * je travaille dans la restauration depuis 15 ans et je veux changer de travail
 * je suis musicien et grand fan de cinema
+* je pratique la course à pieds depuis 5 ans
 
 ## experience pro
 
